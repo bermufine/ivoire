@@ -7,7 +7,7 @@
 
 {"descriptionCi":"A12 TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNzM5OTUzNDdf/atwelve.jpg","titleCi":"A12 TV"},
 
-{"descriptionCi":"Tchaman TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres....","sourceCi":["https://itelema.stream:443/live/smil:myStream.smil/chunklist_w1427504404_b10171271_sleng.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODQ2ODkyOTdf/Ecclesia.jpeg","titleCi":"TCHAMAN TV"}
+{"descriptionCi":"Tchaman TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres....","sourceCi":["https://itelema.stream:443/live/smil:myStream.smil/chunklist_w1427504404_b10171271_sleng.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODQ2ODkyOTdf/Ecclesia.jpeg","titleCi":"TCHAMAN TV"},
 
 {"descriptionCi":"NCI TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://nci-live.secure2.footprint.net/nci/nci.isml/nci-audio_1=128000-video=2500000-38690520.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNjk2MDA5NDRf/nci.png","titleCi":"NCI TV"},
 
@@ -23,7 +23,4 @@
 
 {"descriptionCi":"NTV TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres ....","sourceCi":["https://strfla209.streamakaci.tv:443/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv360p/chunks.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODQ2ODkyOTdf/Ecclesia.jpeg","titleCi":"NTV"},
 
-{"descriptionCi":"Guide Love TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....","sourceCi":["https://video1.getstreamhosting.com:1936/8056/8056/chunklist_w223996626.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODQ2ODkyOTdf/Ecclesia.jpeg","titleCi":"GUIDE LOVE TV"}
-
-
-]}]}
+{"descriptionCi":"Guide Love TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....","sourceCi":["https://video1.getstreamhosting.com:1936/8056/8056/chunklist_w223996626.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODQ2ODkyOTdf/Ecclesia.jpeg","titleCi":"GUIDE LOVE TV"}]}]}
