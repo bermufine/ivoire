@@ -11,7 +11,7 @@
 
 {"descriptionCi":"NCI TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://nci-live.secure2.footprint.net/nci/nci.isml/nci-audio_1=128000-video=2500000-38690520.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNjk2MDA5NDRf/nci.png","titleCi":"NCI TV"},
 
-{"descriptionCi":"Business 24 TV est une chaîne privée ivoirienne","sourceCi":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODQ2ODkyNDZf/DivinAmour.jpeg","titleCi":"BUSINESS 24 TV"},
+{"descriptionCi":"Business 24 TV est une chaîne privée ivoirienne","sourceCi":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODcwMzU5OTVf/business.jpg","titleCi":"BUSINESS 24 TV"},
 
 {"descriptionCi":"Ivoire TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....","sourceCi":["https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNjk2MDA1MDJf/ivoirechan.png","titleCi":"IVOIRE TV"},
 
