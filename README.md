@@ -1,5 +1,7 @@
 # ivoire
-{"categorieCi":[{"name":"Movies","videos":[{"descriptionCi":"RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg","titleCi":"RTI 1"},
+{"categorieCi":[{"name":"Movies","videos":[{"descriptionCi":"Mondiale Web TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://video1.getstreamhosting.com:1936/8312/8312/chunklist_w170444534.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNjk2MDA5NDRf/nci.png","titleCi":"MONDIALE WEB TV"},
+
+{"descriptionCi":"RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg","titleCi":"RTI 1"},
 
 {"descriptionCi":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleCi":"RTI 2"},
 
