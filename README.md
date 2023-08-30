@@ -21,7 +21,7 @@
 
 {"descriptionCi":"NTV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres ....","sourceCi":["https://strfla209.streamakaci.tv:443/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv360p/chunks.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODY5NTM2ODVf/ntv.jpg","titleCi":"NTV"},
 
-{"descriptionCi":"A+ ivoire TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceCi":["http://69.64.57.208/atv/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODQ2ODkyOTdf/Ecclesia.jpeg","titleCi":"A+ IVOIRE TV"},
+{"descriptionCi":"A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries, informations, musiques et autres....","sourceCi":["http://69.64.57.208/atv/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg","titleCi":"A+ IVOIRE TV"},
 
 {"descriptionCi":"Ecclesia TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceCi":["https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODQ2ODkyOTdf/Ecclesia.jpeg","titleCi":"ECCLESIA TV / LIEN 2"},
 
