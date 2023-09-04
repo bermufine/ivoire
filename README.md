@@ -7,6 +7,8 @@
 
 {"descriptionCi":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleCi":"RTI 2"},
 
+{"descriptionCi":"LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["http://69.64.57.208/la3/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleCi":"LA 3"},
+
 {"descriptionCi":"Intelligent TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNjk2MDA4NDZf/intelligent.jpg","titleCi":"INTELLIGENT TV"},
 
 {"descriptionCi":"A12 TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNzM5OTUzNDdf/atwelve.jpg","titleCi":"A12 TV"},
