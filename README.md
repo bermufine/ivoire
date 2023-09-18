@@ -35,4 +35,8 @@
 
 {"descriptionCi":"Reflet TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceCi":["https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yOTA2ODE4OTBf/refletabidjan.png","titleCi":"REFLET TV"},
 
-{"descriptionCi":"Albayane TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceCi":["http://69.64.57.208/albayanetv/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yOTA2ODE4OTBf/refletabidjan.png","titleCi":"ALBAYANE TV"}]}]}
+{"descriptionCi":"Albayane TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceCi":["http://69.64.57.208/albayanetv/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yOTA2ODE4OTBf/refletabidjan.png","titleCi":"ALBAYANE TV"},
+
+{"descriptionCi":"RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["http://69.64.57.208/rti1/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg","titleCi":"RTI 1"},
+
+{"descriptionCi":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["http://69.64.57.208/rti2/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleCi":"RTI 2"}]}]}
