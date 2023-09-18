@@ -33,4 +33,6 @@
 
 {"descriptionCi":"Miracle TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceCi":["https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yOTA2ODE2NzJf/miracleabidjan.png","titleCi":"MIRACLE TV"},
 
-{"descriptionCi":"Reflet TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceCi":["https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yOTA2ODE4OTBf/refletabidjan.png","titleCi":"REFLET TV"}]}]}
+{"descriptionCi":"Reflet TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceCi":["https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yOTA2ODE4OTBf/refletabidjan.png","titleCi":"REFLET TV"},
+
+{"descriptionCi":"Albayane TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne....","sourceCi":["http://69.64.57.208/albayanetv/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yOTA2ODE4OTBf/refletabidjan.png","titleCi":"ALBAYANE TV"}]}]}
