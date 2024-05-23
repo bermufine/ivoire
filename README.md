@@ -2,13 +2,11 @@
 {"categorieCi":[{"name":"Movies","videos":[{"descriptionCi":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
  qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sourceCi":["https://neriyastreaming.ddns.net/memfs/b92b5d69-7f44-4ae8-a00a-40d70623b1e6.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","titleCi":"CHAMPION TV"},
 
-{"descriptionCi":"Mondiale Web TV est une chaine televisee privée ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres...","sourceCi":["https://video1.getstreamhosting.com:1936/8312/8312/chunklist_w170444534.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODc0MTgxNTlf/Mondialwebs.jpeg","titleCi":"MONDIALE WEB TV"},
-
 {"descriptionCi":"Christ TV est une chaine televisee chretienne ivoiriens qui diffuse que des predications, des informations, musiques et autres chritienne....","sourceCi":["https://voozmedia.fun/stream/christlive/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODQ2ODkyNTFf/CHRISTLive.jpeg","titleCi":"CHRIST TV"},
 
 {"descriptionCi":"RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg","titleCi":"RTI 1"},
 
-{"descriptionCi":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleCi":"RTI 2"},
+{"descriptionCi":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["http://69.64.57.208/rti2/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleCi":"RTI 2"},
 
 {"descriptionCi":"LA 3 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["http://69.64.57.208/la3/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yOTgyODg3Njlf/laTrois.png","titleCi":"LA 3"},
 
@@ -23,6 +21,8 @@
 {"descriptionCi":"Business 24 TV est une chaîne privée ivoirienne","sourceCi":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODcwMzU5OTVf/business.jpg","titleCi":"BUSINESS 24 TV"},
 
 {"descriptionCi":"Ivoire TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres....","sourceCi":["https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNjk2MDA1MDJf/ivoirechan.png","titleCi":"IVOIRE TV"},
+
+{"descriptionCi":"Mondiale Web TV est une chaine televisee privée ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres...","sourceCi":["https://video1.getstreamhosting.com:1936/8312/8312/chunklist_w170444534.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODc0MTgxNTlf/Mondialwebs.jpeg","titleCi":"MONDIALE WEB TV"},
 
 {"descriptionCi":"NTV est une chaine televisee ivoiriens qui diffuse que des informations, musiques et autres ....","sourceCi":["https://strfla209.streamakaci.tv:443/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv360p/chunks.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODY5NTM2ODVf/ntv.jpg","titleCi":"NTV"},
 
@@ -42,4 +42,4 @@
 
 {"descriptionCi":"RTI 1 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["http://69.64.57.208/rti1/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNDU0NzA5NTlf/rti.jpg","titleCi":"RTI 1"},
 
-{"descriptionCi":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["http://69.64.57.208/rti2/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleCi":"RTI 2"}]}]}
+{"descriptionCi":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleCi":"RTI 2"}]}]}
