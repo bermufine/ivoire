@@ -1,6 +1,6 @@
 # ivoire
 {"categorieCi":[{"name":"Movies","videos":[{"descriptionCi":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
- qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sourceCi":["https://neriyastreaming.ddns.net/memfs/b92b5d69-7f44-4ae8-a00a-40d70623b1e6.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","titleCi":"CHAMPION TV"},
+ qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sourceCi":["https://amigofx.com:1936/championtv/championtv/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","titleCi":"CHAMPION TV"},
 
 {"descriptionCi":"Christ TV est une chaine televisee chretienne ivoiriens qui diffuse que des predications, des informations, musiques et autres chritienne....","sourceCi":["https://voozmedia.fun/stream/christlive/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODQ2ODkyNTFf/CHRISTLive.jpeg","titleCi":"CHRIST TV"},
 
@@ -65,3 +65,5 @@
 {"descriptionCi":"Novelas Channel est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18zMDM4NzU0MzNf/novelas.jpeg","titleCi":"NOVELAS CHANNEL"},
 
 {"descriptionCi":"Alpha & Omega TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18zMDM4NzU1NDRf/alphaetomega.jpg","titleCi":"ALPHA & OMEGA"}]}]}
+
+https://neriyastreaming.ddns.net/memfs/b92b5d69-7f44-4ae8-a00a-40d70623b1e6.m3u8 ==> CHAMPION TV
