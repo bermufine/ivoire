@@ -1,6 +1,8 @@
 # ivoire
 {"categorieCi":[{"name":"Movies","videos":[{"descriptionCi":"𝘾𝙝𝙖𝙢𝙥𝙞𝙤𝙣 𝙩𝙫 est une chaîne de télévision panafricaine qui émette en côte d'ivoire
  qui fait la promotion du Shopping ,l'Entreprenariat, l'E-commerce, l'Immobilier et toutes Activités Génératrices de Revenus","sourceCi":["https://amigofx.com:1936/championtv/championtv/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg","titleCi":"CHAMPION TV"},
+ 
+{"descriptionCi":"AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne....","sourceCi":["https://amigofx.com:1936/ayatv/ayatv/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg","titleCi":"CHRIST TV"},
 
 {"descriptionCi":"Christ TV est une chaine televisee chretienne ivoiriens qui diffuse que des predications, des informations, musiques et autres chritienne....","sourceCi":["https://voozmedia.fun/stream/christlive/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yODQ2ODkyNTFf/CHRISTLive.jpeg","titleCi":"CHRIST TV"},
 
