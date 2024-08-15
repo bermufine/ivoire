@@ -59,7 +59,7 @@
 
 {"descriptionCi":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleCi":"RTI 2"},
 
-{"descriptionCi":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["http://69.64.57.208/rti2/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleCi":"RTI 2 / C"},
+{"descriptionCi":"RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["http://69.64.57.208/rti2/index.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg","titleCi":"RTI 2"},
 
 {"descriptionCi":"Batir TV est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres....","sourceCi":["https://webstreaming.viewmedia.tv/web_021/Stream/playlist.m3u8"],"subtitleCi":"By Channel","thumbCi":"https://od.lk/s/M18zMDM4NzU0MTdf/batirTV.jpg","titleCi":"BATIR TV"},
 
